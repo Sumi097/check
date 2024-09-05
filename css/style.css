@@ -142,9 +142,8 @@ text-align: start;
  /* banner_section start  */
  .banner_section{
     background-color: #D7F5DC;
-     min-height: 100vh; 
+    padding: 0px 0 100px 0;
     position: relative;
-  
  }
  .height{
     align-items: center;
